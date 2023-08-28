@@ -35,14 +35,9 @@
 		</td>
 	</tr>
 </table>
-<b>Github Stats ⚡</b> <br/><br/>
-<table align="center">
-	<tr>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AHSharifi&theme=blueberry&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
-		</td>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSharifi&theme=blueberry&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
-		</td>
-	</tr>
-</table>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AHSharifi&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHSharifi&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
