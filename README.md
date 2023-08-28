@@ -1,13 +1,16 @@
+# Hey There! 👋
 
-
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 <table>
 	 <td width="1200px">
 	 <h2>About Me</h2>
-	        My name is Amir<br>
+	        My name is Amir!<br>
 		    I love programing,hacking and plying game<br>
  </p>
- <img src="https://komarev.com/ghpvc/?username=AHSharifi&color=brightgreen&label=Profile Views" draggable="false">
 
 
 
@@ -38,14 +41,7 @@
 	</tr>
 </table>
 
-
-<table align="center">
-	<tr>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AHSharifi&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
-		</td>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSharifi&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
-		</td>
-	</tr>
-</table
+**Github Stats ⚡**
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AHSharifi&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHSharifi&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
