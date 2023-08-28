@@ -12,12 +12,12 @@
  </td>
 	<tr>
 	<td width="1200px">
-	<h3>Programming languages</h3>
+	<h3>Programming languages :</h3>
 	<img align="left" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,ts,py" draggable="false"></td>
 	</tr>
 	<tr>
 	<td width="1200px">
-	<h3>Skills</h3>
+	<h3>Skills :</h3>
 	<img align="left" src="https://skillicons.dev/icons?i=blender,bootstrap,git,ps,pr,wordpress,linux" draggable="false"></td>
 	</tr>
 	<table> 
