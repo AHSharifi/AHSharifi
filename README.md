@@ -35,7 +35,7 @@
 		</td>
 	</tr>
 </table>
-**Github Stats ⚡** <br/><br/>
+<b>Github Stats ⚡</b> <br/><br/>
 <table align="center">
 	<tr>
 		<td width="1200px">
