@@ -4,7 +4,7 @@
 	 <td width="1200px">
 	 <h2>About Me</h2>
 	        My name is Amir!<br>
-		    I love programing,hacking and plying game<br>
+		    I love programing,hacking and playing game<br>
  </p>
 
 
