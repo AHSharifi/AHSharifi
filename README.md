@@ -40,10 +40,3 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AHSharifi&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHSharifi&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
-<h4>My Discord Status</h4>
-<a align="center" href="https://discord.com/users/449369771469701132">
- <img align="center" src="https://lanyard-profile-readme.vercel.app/api/769526718674632725?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
-   </a>
-
-<br>
