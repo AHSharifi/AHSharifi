@@ -18,7 +18,7 @@
 	<tr>
 	<td width="1200px">
 	<h3>Skills :</h3>
-	<img align="left" src="https://skillicons.dev/icons?i=blender,bootstrap,git,ps,pr,wordpress,linux" draggable="false"></td>
+	<img align="left" src="https://skillicons.dev/icons?i=blender,bootstrap,laravel,git,ps,pr,wordpress,linux" draggable="false"></td>
 	</tr>
 	<table> 
 
