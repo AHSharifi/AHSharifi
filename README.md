@@ -27,7 +27,7 @@
 	<tr>
 		<td width="1200px">
 	    <h3>Apps :</h3>
-        <img align="left" src="https://skillicons.dev/icons?i=vscode,visualstudio" draggable="false">
+        <img align="left" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" draggable="false">
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>
