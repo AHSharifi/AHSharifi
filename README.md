@@ -39,4 +39,6 @@
 **Github Stats ⚡**<br/>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AHSharifi&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHSharifi&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="https://github.com/AHSharifi">
+  <img width="49%" height="165px" src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=AHSharifi&exclude_repo=Bootstrap-Offline&hide=css,html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" />
+</a>
