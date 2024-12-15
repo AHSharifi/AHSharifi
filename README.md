@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 My name is Amirhossein<br>🔭 I’m currently working on BK Team Site <br>🌱 I’m currently learning Nothing
-
+👨‍💻 My name is **Amirhossein**<br>🔭 I’m currently working on **Nothing** <br>🌱 I’m currently learning **Nothing**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hfTnpjU9wb) 
